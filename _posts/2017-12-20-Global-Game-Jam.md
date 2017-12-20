@@ -1,4 +1,5 @@
 ---
+layout: post_cust
 title: Global Game Jam 2018
 ---
 
